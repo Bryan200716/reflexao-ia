@@ -142,7 +142,7 @@ button:hover {
 }
 
 .menu__item a:hover {
-  box-shadow: inset -3px -3px 7px #ffffff73,
+  box-shadow: inset -3px -3px 7px #110a0a73,
     inset 3px 3px 5px rgba(0, 0, 0, 0.671);
 }
 

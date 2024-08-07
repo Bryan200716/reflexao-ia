@@ -210,12 +210,12 @@ button:hover {
 
 .menu__item:nth-child(4) a {
   transform: rotate(-180deg);
-  color: #04080ebe;
+  color: #1d1fb9b7;
 }
 
 .menu__item:nth-child(5) a {
   transform: rotate(-240deg);
-  color: #0c152bd2;
+  color: #000000d2;
 }
 
 footer .menu__item:nth-child(6) a {
